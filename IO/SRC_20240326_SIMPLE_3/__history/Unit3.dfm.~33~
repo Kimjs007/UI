@@ -1847,12 +1847,11 @@ object Form3: TForm3
         26)
       object Label33: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1:ReadyBtn'
@@ -1863,13 +1862,12 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitLeft = 33
+        ExplicitWidth = 132
       end
       object AdvShapeButton32: TAdvShapeButton
-        Left = 4
-        Top = 2
+        Left = 34
+        Top = 3
         Width = 23
         Height = 23
         Hint = 'Maximize & Minimize'
@@ -1920,7 +1918,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel34: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -1967,12 +1965,11 @@ object Form3: TForm3
         26)
       object Label1: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2:ReadyBtn'
@@ -1988,7 +1985,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton1: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2040,7 +2037,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel2: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2087,12 +2084,11 @@ object Form3: TForm3
         26)
       object Label3: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'EMO1-Front'
@@ -2108,7 +2104,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton2: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2160,7 +2156,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel4: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2207,12 +2203,11 @@ object Form3: TForm3
         26)
       object Label5: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'EMO2-Right'
@@ -2228,7 +2223,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton3: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2280,7 +2275,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel6: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2327,12 +2322,11 @@ object Form3: TForm3
         26)
       object Label7: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'EMO3-In-Right'
@@ -2348,7 +2342,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton4: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2400,7 +2394,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel8: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2447,12 +2441,11 @@ object Form3: TForm3
         26)
       object Label9: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'EMO4-In-Left'
@@ -2468,7 +2461,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton5: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2520,7 +2513,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel10: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2549,7 +2542,7 @@ object Form3: TForm3
           Font.Style = [fsBold]
           ParentFont = False
           Layout = tlCenter
-          ExplicitLeft = 0
+          ExplicitLeft = 6
         end
       end
     end
@@ -2567,12 +2560,11 @@ object Form3: TForm3
         26)
       object Label11: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'EMO5-Left'
@@ -2588,7 +2580,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton6: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2640,7 +2632,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel12: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2687,12 +2679,11 @@ object Form3: TForm3
         26)
       object Label13: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Door1 Lock'
@@ -2708,7 +2699,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton7: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2760,7 +2751,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel14: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2807,12 +2798,11 @@ object Form3: TForm3
         26)
       object Label15: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Door2 Lock'
@@ -2828,7 +2818,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton8: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -2880,7 +2870,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel16: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -2927,12 +2917,11 @@ object Form3: TForm3
         26)
       object Label18: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Door1 Lock'
@@ -2948,7 +2937,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton9: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3000,7 +2989,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel19: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3047,12 +3036,11 @@ object Form3: TForm3
         26)
       object Label20: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Door2 Lock'
@@ -3068,7 +3056,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton10: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3120,7 +3108,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel21: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3167,12 +3155,11 @@ object Form3: TForm3
         26)
       object Label22: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Muting'
@@ -3188,7 +3175,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton11: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3240,7 +3227,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel23: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3287,12 +3274,11 @@ object Form3: TForm3
         26)
       object Label24: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Muting'
@@ -3308,7 +3294,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton12: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3360,7 +3346,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel25: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3407,12 +3393,11 @@ object Form3: TForm3
         26)
       object Label26: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: LightCurtain'
@@ -3428,7 +3413,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton13: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3480,7 +3465,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel27: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3527,12 +3512,11 @@ object Form3: TForm3
         26)
       object Label28: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: LightCurtain'
@@ -3548,7 +3532,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton14: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3600,7 +3584,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel29: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3647,12 +3631,11 @@ object Form3: TForm3
         26)
       object Label30: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Key-Auto'
@@ -3668,7 +3651,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton15: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3720,7 +3703,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel31: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3767,12 +3750,11 @@ object Form3: TForm3
         26)
       object Label32: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Key-Auto'
@@ -3788,7 +3770,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton17: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3840,7 +3822,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel35: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -3887,12 +3869,11 @@ object Form3: TForm3
         26)
       object Label36: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Key-Teach'
@@ -3908,7 +3889,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton18: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -3960,7 +3941,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel37: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4007,12 +3988,11 @@ object Form3: TForm3
         26)
       object Label38: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1:Door1'
@@ -4028,7 +4008,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton19: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4080,7 +4060,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel39: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4127,12 +4107,11 @@ object Form3: TForm3
         26)
       object Label40: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1:Door2'
@@ -4148,7 +4127,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton20: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4200,7 +4179,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel41: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4247,12 +4226,11 @@ object Form3: TForm3
         26)
       object Label42: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2:Door1'
@@ -4268,7 +4246,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton21: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4320,7 +4298,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel43: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4367,12 +4345,11 @@ object Form3: TForm3
         26)
       object Label44: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2:Door2'
@@ -4388,7 +4365,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton22: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4440,7 +4417,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel45: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4487,12 +4464,11 @@ object Form3: TForm3
         26)
       object Label46: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Cylinder-Regul'
@@ -4508,7 +4484,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton23: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4560,7 +4536,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel47: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4607,12 +4583,11 @@ object Form3: TForm3
         26)
       object Label48: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Temperature'
@@ -4628,7 +4603,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton24: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4680,7 +4655,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel49: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4727,12 +4702,11 @@ object Form3: TForm3
         26)
       object Label50: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Power High'
@@ -4748,7 +4722,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton25: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4800,7 +4774,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel51: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4847,12 +4821,11 @@ object Form3: TForm3
         26)
       object Label52: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'MC1'
@@ -4868,7 +4841,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton26: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -4920,7 +4893,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel53: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -4967,12 +4940,11 @@ object Form3: TForm3
         26)
       object Label54: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Shut UP'
@@ -4988,7 +4960,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton27: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5040,7 +5012,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel55: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5087,12 +5059,11 @@ object Form3: TForm3
         26)
       object Label56: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Shut Down'
@@ -5108,7 +5079,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton28: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5160,7 +5131,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel57: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5207,12 +5178,11 @@ object Form3: TForm3
         26)
       object Label58: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Shut UP'
@@ -5228,7 +5198,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton29: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5280,7 +5250,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel59: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5327,12 +5297,11 @@ object Form3: TForm3
         26)
       object Label60: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Shut Down'
@@ -5348,7 +5317,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton30: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5400,7 +5369,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel61: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5446,7 +5415,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton31: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5499,7 +5468,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel63: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5546,12 +5515,11 @@ object Form3: TForm3
         26)
       object Label64: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Key-Teach'
@@ -5567,7 +5535,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton33: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5619,7 +5587,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel65: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5666,12 +5634,11 @@ object Form3: TForm3
         26)
       object Label72: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan In-GPC'
@@ -5687,7 +5654,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton37: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5738,7 +5705,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel73: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5785,12 +5752,11 @@ object Form3: TForm3
         26)
       object Label74: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan Out-GPC'
@@ -5806,7 +5772,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton38: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 3
         Width = 23
         Height = 23
@@ -5858,7 +5824,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel75: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -5905,12 +5871,11 @@ object Form3: TForm3
         26)
       object Label76: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan In-DPC'
@@ -5926,7 +5891,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton39: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -5977,7 +5942,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel77: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6024,12 +5989,11 @@ object Form3: TForm3
         26)
       object Label78: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan Out-DPC'
@@ -6045,7 +6009,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton40: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6096,7 +6060,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel79: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6143,12 +6107,11 @@ object Form3: TForm3
         26)
       object Label88: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Y-Load'
@@ -6164,7 +6127,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton45: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6215,7 +6178,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel89: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6262,12 +6225,11 @@ object Form3: TForm3
         26)
       object Label90: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Y-Load'
@@ -6283,7 +6245,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton46: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6334,7 +6296,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel91: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6381,12 +6343,11 @@ object Form3: TForm3
         26)
       object Label92: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Vacuum1'
@@ -6402,7 +6363,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton47: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6453,7 +6414,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel93: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6500,12 +6461,11 @@ object Form3: TForm3
         26)
       object Label94: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: Vacuum2'
@@ -6521,7 +6481,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton48: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6572,7 +6532,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel95: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6619,12 +6579,11 @@ object Form3: TForm3
         26)
       object Label96: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Vacuum1'
@@ -6640,7 +6599,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton49: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6691,7 +6650,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel97: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6738,12 +6697,11 @@ object Form3: TForm3
         26)
       object Label98: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: Vacuum2'
@@ -6759,7 +6717,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton50: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6810,7 +6768,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel99: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6857,12 +6815,11 @@ object Form3: TForm3
         26)
       object Label108: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'MC2'
@@ -6878,7 +6835,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton55: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -6929,7 +6886,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel109: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -6976,12 +6933,11 @@ object Form3: TForm3
         26)
       object Label110: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Vacuum-Regul'
@@ -6997,7 +6953,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton56: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7048,7 +7004,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel111: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7095,12 +7051,11 @@ object Form3: TForm3
         26)
       object Label17: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan In-Left'
@@ -7113,9 +7068,10 @@ object Form3: TForm3
         Layout = tlCenter
         ExplicitLeft = 34
         ExplicitTop = 5
+        ExplicitWidth = 132
       end
       object AdvShapeButton59: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7166,7 +7122,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel117: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7213,12 +7169,11 @@ object Form3: TForm3
         26)
       object Label118: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan In-Right'
@@ -7234,7 +7189,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton60: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7285,7 +7240,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel119: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7332,12 +7287,11 @@ object Form3: TForm3
         26)
       object Label120: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan Out-Left'
@@ -7353,7 +7307,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton61: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7404,7 +7358,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel121: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7451,12 +7405,11 @@ object Form3: TForm3
         26)
       object Label122: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'Fan Out-Right'
@@ -7472,7 +7425,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton62: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7523,7 +7476,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel123: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7570,12 +7523,11 @@ object Form3: TForm3
         26)
       object Label124: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S1: YAxis MC'
@@ -7591,7 +7543,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton63: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7642,7 +7594,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel125: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7689,12 +7641,11 @@ object Form3: TForm3
         26)
       object Label126: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 132
+        Width = 136
         Height = 20
-        Margins.Left = 32
-        Margins.Right = 35
+        Margins.Left = 60
         Align = alClient
         AutoSize = False
         Caption = 'S2: YAxis MC'
@@ -7710,7 +7661,7 @@ object Form3: TForm3
         ExplicitHeight = 21
       end
       object AdvShapeButton64: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7761,7 +7712,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel127: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7807,7 +7758,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton16: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7860,7 +7811,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel66: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -7906,7 +7857,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton34: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -7959,7 +7910,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel68: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8005,7 +7956,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton35: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8058,7 +8009,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel70: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8104,7 +8055,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton36: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8157,7 +8108,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel80: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8203,7 +8154,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton41: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8256,7 +8207,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel82: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8302,7 +8253,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton42: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8355,7 +8306,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel84: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8401,7 +8352,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton43: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8454,7 +8405,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel86: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8500,7 +8451,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton44: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8553,7 +8504,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel100: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8599,7 +8550,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton51: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8652,7 +8603,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel102: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8698,7 +8649,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton52: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8751,7 +8702,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel104: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8797,7 +8748,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton53: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8850,7 +8801,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel106: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8896,7 +8847,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton54: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -8949,7 +8900,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel112: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -8995,7 +8946,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton57: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9048,7 +8999,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel114: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9094,7 +9045,7 @@ object Form3: TForm3
         199
         26)
       object AdvShapeButton58: TAdvShapeButton
-        Left = 4
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9147,7 +9098,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel128: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9207,11 +9158,11 @@ object Form3: TForm3
       TabOrder = 0
       object Label130: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9223,12 +9174,11 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitLeft = 50
+        ExplicitWidth = 182
       end
       object AdvShapeButton66: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9279,7 +9229,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel131: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9345,11 +9295,11 @@ object Form3: TForm3
       TabOrder = 1
       object Label132: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9361,12 +9311,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton67: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9416,7 +9364,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel133: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9482,11 +9430,11 @@ object Form3: TForm3
       TabOrder = 2
       object Label134: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9498,12 +9446,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton68: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9554,7 +9500,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel135: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9620,11 +9566,11 @@ object Form3: TForm3
       TabOrder = 3
       object Label136: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9636,12 +9582,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton69: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9692,7 +9636,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel137: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9758,11 +9702,11 @@ object Form3: TForm3
       TabOrder = 4
       object Label138: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9774,12 +9718,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton70: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9830,7 +9772,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel139: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -9896,11 +9838,11 @@ object Form3: TForm3
       TabOrder = 5
       object Label140: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -9912,12 +9854,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton71: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -9968,7 +9908,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel141: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10034,11 +9974,11 @@ object Form3: TForm3
       TabOrder = 6
       object Label142: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10050,12 +9990,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton72: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10105,7 +10043,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel143: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10171,11 +10109,11 @@ object Form3: TForm3
       TabOrder = 7
       object Label144: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10187,12 +10125,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton73: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10242,7 +10178,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel145: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10308,11 +10244,11 @@ object Form3: TForm3
       TabOrder = 8
       object Label146: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10324,12 +10260,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton74: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10380,7 +10314,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel147: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10446,11 +10380,11 @@ object Form3: TForm3
       TabOrder = 9
       object Label148: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10462,12 +10396,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton75: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10517,7 +10449,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel149: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10583,11 +10515,11 @@ object Form3: TForm3
       TabOrder = 10
       object Label150: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10599,12 +10531,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton76: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10654,7 +10584,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel151: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10720,11 +10650,11 @@ object Form3: TForm3
       TabOrder = 11
       object Label152: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -10736,12 +10666,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton77: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10791,7 +10719,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel153: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10856,7 +10784,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 12
       object AdvShapeButton78: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -10906,7 +10834,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel155: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -10972,7 +10900,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 13
       object AdvShapeButton79: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11022,7 +10950,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel157: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11089,11 +11017,11 @@ object Form3: TForm3
       TabOrder = 14
       object Label158: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11105,12 +11033,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton80: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11160,7 +11086,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel159: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11226,11 +11152,11 @@ object Form3: TForm3
       TabOrder = 15
       object Label160: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11242,12 +11168,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton81: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11297,7 +11221,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel161: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11363,11 +11287,11 @@ object Form3: TForm3
       TabOrder = 16
       object Label162: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11379,12 +11303,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton82: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11434,7 +11356,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel163: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11500,11 +11422,11 @@ object Form3: TForm3
       TabOrder = 17
       object Label164: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11516,12 +11438,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton83: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11571,7 +11491,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel165: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11637,11 +11557,11 @@ object Form3: TForm3
       TabOrder = 18
       object Label166: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11653,12 +11573,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton84: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11708,7 +11626,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel167: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11774,11 +11692,11 @@ object Form3: TForm3
       TabOrder = 19
       object Label168: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11790,12 +11708,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton85: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11845,7 +11761,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel169: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -11911,11 +11827,11 @@ object Form3: TForm3
       TabOrder = 20
       object Label170: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -11927,12 +11843,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton86: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -11982,7 +11896,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel171: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12048,11 +11962,11 @@ object Form3: TForm3
       TabOrder = 21
       object Label172: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -12064,12 +11978,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton87: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12119,7 +12031,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel173: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12184,7 +12096,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 22
       object AdvShapeButton88: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12234,7 +12146,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel175: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12300,7 +12212,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 23
       object AdvShapeButton89: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12350,7 +12262,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel177: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12416,7 +12328,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 24
       object AdvShapeButton90: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12466,7 +12378,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel179: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12532,7 +12444,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 25
       object AdvShapeButton91: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12582,7 +12494,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel181: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12648,7 +12560,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 26
       object AdvShapeButton92: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12698,7 +12610,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel183: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12764,7 +12676,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 27
       object AdvShapeButton93: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12814,7 +12726,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel185: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -12881,11 +12793,11 @@ object Form3: TForm3
       TabOrder = 28
       object Label186: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -12897,12 +12809,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton94: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -12952,7 +12862,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel187: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13018,11 +12928,11 @@ object Form3: TForm3
       TabOrder = 29
       object Label188: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13034,12 +12944,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton95: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13089,7 +12997,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel189: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13155,11 +13063,11 @@ object Form3: TForm3
       TabOrder = 30
       object Label190: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13171,12 +13079,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton96: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13226,7 +13132,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel191: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13292,11 +13198,11 @@ object Form3: TForm3
       TabOrder = 31
       object Label192: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13308,12 +13214,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton97: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13363,7 +13267,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel193: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13429,11 +13333,11 @@ object Form3: TForm3
       TabOrder = 32
       object Label194: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13445,12 +13349,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton98: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13500,7 +13402,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel195: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13566,11 +13468,11 @@ object Form3: TForm3
       TabOrder = 33
       object Label196: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13582,12 +13484,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton99: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13637,7 +13537,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel197: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13703,11 +13603,11 @@ object Form3: TForm3
       TabOrder = 34
       object Label198: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13719,12 +13619,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton100: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13774,7 +13672,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel199: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13840,11 +13738,11 @@ object Form3: TForm3
       TabOrder = 35
       object Label200: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13856,12 +13754,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton101: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -13911,7 +13807,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel201: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -13977,11 +13873,11 @@ object Form3: TForm3
       TabOrder = 36
       object Label202: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -13993,12 +13889,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton102: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 1
         Width = 23
         Height = 23
@@ -14048,7 +13942,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel203: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14114,11 +14008,11 @@ object Form3: TForm3
       TabOrder = 37
       object Label204: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14130,12 +14024,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton103: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14185,7 +14077,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel205: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14251,11 +14143,11 @@ object Form3: TForm3
       TabOrder = 38
       object Label206: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14267,12 +14159,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton104: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14322,7 +14212,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel207: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14388,11 +14278,11 @@ object Form3: TForm3
       TabOrder = 39
       object Label208: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14404,12 +14294,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton105: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14459,7 +14347,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel209: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14525,11 +14413,11 @@ object Form3: TForm3
       TabOrder = 40
       object Label210: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14541,12 +14429,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton106: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14596,7 +14482,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel211: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14662,11 +14548,11 @@ object Form3: TForm3
       TabOrder = 41
       object Label212: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14678,12 +14564,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton107: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14733,7 +14617,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel213: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14799,11 +14683,11 @@ object Form3: TForm3
       TabOrder = 42
       object Label214: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14815,10 +14699,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitTop = 2
+        ExplicitWidth = 182
       end
       object AdvShapeButton108: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -14868,7 +14752,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel215: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -14934,11 +14818,11 @@ object Form3: TForm3
       TabOrder = 43
       object Label216: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -14950,12 +14834,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton109: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15005,7 +14887,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel217: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15071,11 +14953,11 @@ object Form3: TForm3
       TabOrder = 44
       object Label218: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15087,12 +14969,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton110: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15142,7 +15022,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel219: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15208,11 +15088,11 @@ object Form3: TForm3
       TabOrder = 45
       object Label220: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15224,12 +15104,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton111: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15279,7 +15157,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel221: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15345,11 +15223,11 @@ object Form3: TForm3
       TabOrder = 46
       object Label222: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15361,12 +15239,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton112: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15416,7 +15292,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel223: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15482,11 +15358,11 @@ object Form3: TForm3
       TabOrder = 47
       object Label224: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15498,12 +15374,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton113: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15553,7 +15427,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel225: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15619,11 +15493,11 @@ object Form3: TForm3
       TabOrder = 48
       object Label226: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15635,12 +15509,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton114: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15690,7 +15562,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel227: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15756,11 +15628,11 @@ object Form3: TForm3
       TabOrder = 49
       object Label228: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15772,12 +15644,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton115: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15827,7 +15697,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel229: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -15893,11 +15763,11 @@ object Form3: TForm3
       TabOrder = 50
       object Label230: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -15909,12 +15779,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton116: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -15964,7 +15832,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel231: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16030,11 +15898,11 @@ object Form3: TForm3
       TabOrder = 51
       object Label232: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16046,12 +15914,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton117: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16101,7 +15967,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel233: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16167,11 +16033,11 @@ object Form3: TForm3
       TabOrder = 52
       object Label234: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16183,12 +16049,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton118: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16238,7 +16102,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel235: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16304,11 +16168,11 @@ object Form3: TForm3
       TabOrder = 53
       object Label236: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16320,12 +16184,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton119: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16375,7 +16237,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel237: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16441,11 +16303,11 @@ object Form3: TForm3
       TabOrder = 54
       object Label238: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16457,12 +16319,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton120: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16512,7 +16372,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel239: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16578,11 +16438,11 @@ object Form3: TForm3
       TabOrder = 55
       object Label240: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16594,12 +16454,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton121: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16649,7 +16507,7 @@ object Form3: TForm3
         Version = '6.2.0.0'
       end
       object CurvyPanel241: TCurvyPanel
-        Left = 170
+        Left = 6
         Top = 4
         Width = 25
         Height = 18
@@ -16715,11 +16573,11 @@ object Form3: TForm3
       TabOrder = 56
       object Label242: TLabel
         AlignWithMargins = True
-        Left = 32
+        Left = 60
         Top = 3
-        Width = 182
+        Width = 154
         Height = 20
-        Margins.Left = 32
+        Margins.Left = 60
         Margins.Right = 35
         Align = alClient
         AutoSize = False
@@ -16731,12 +16589,10 @@ object Form3: TForm3
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitLeft = 66
-        ExplicitWidth = 124
-        ExplicitHeight = 21
+        ExplicitWidth = 182
       end
       object AdvShapeButton122: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16851,7 +16707,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 57
       object AdvShapeButton123: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -16967,7 +16823,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 58
       object AdvShapeButton124: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -17083,7 +16939,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 59
       object AdvShapeButton125: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -17199,7 +17055,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 60
       object AdvShapeButton126: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -17315,7 +17171,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 61
       object AdvShapeButton127: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -17431,7 +17287,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 62
       object AdvShapeButton128: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
@@ -17547,7 +17403,7 @@ object Form3: TForm3
       Rounding = 5
       TabOrder = 63
       object AdvShapeButton129: TAdvShapeButton
-        Left = 3
+        Left = 34
         Top = 2
         Width = 23
         Height = 23
